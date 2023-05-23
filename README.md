@@ -1,6 +1,6 @@
 # ProgramadorShowzim
 
-Projeto para refoçar o conhecimento de lógica de programação com Ruby
+Projeto para aprimorar os conhecimentos de lógica de programação com Ruby
 
 ![programadorshowzim](img/maxresdefault.jpg)
 
